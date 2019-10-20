@@ -2,7 +2,6 @@ import React from 'react'
 import Titles from './components/Titles'
 import Form from './components/Form'
 import Weather from './components/Weather'
-import { async } from 'q';
 
 const API_KEY = '6cee859b3813df8444fb9147a15ddbb8'
 
